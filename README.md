@@ -5,3 +5,5 @@ Input the source directory where your music files are stored, input the game dir
 Converting to Radio will add new files and does not overwrite existing files.
 
 Requires ffmpeg to be installed.
+
+Supported formats: .mp3 .flac .ogg .wav .aiff
